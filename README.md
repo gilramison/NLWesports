@@ -6,9 +6,8 @@
 
 Aplicação focada em unir jogadores de diversos jogos. Você pode usá-lo para encontrar um duo ou até mesmo um squad completo para jogar o seu game favorito.
 
-<div display="flex" align="center">
-   <img src="https://i.imgur.com/U9RzOvt.png" />
-</div>
+![projeto](https://user-images.githubusercontent.com/24920154/190926431-e28d01a1-6597-4a47-8bdc-196843e833ab.gif)
+
 
 ### Funcionalidades
 
@@ -41,3 +40,5 @@ $ npm i
 $ npm run dev
 
 ```
+
+
